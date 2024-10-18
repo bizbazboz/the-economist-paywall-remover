@@ -89,3 +89,33 @@ This project is licensed under the GNU General Public License v3.0. S
 ## **Support**
 
 For any issues or support, please open an issue on GitHub or contact the maintainers. We are here to help and ensure the extension works seamlessly for everyone.
+
+---
+## Legal Liability Disclaimer
+
+**Disclaimer:** This Chrome extension, "Remove Economist Paywall and Overlays," is provided for educational and personal use only. The authors do not condone or encourage the bypassing of paywalls or any other forms of digital content restrictions that may violate the terms of service, copyright, or other legal rights of The Economist or any other entity.
+
+By using this extension, you agree to the following terms:
+
+1. **Personal Responsibility**: You, the user, acknowledge that you are solely responsible for your use of this extension. Any consequences arising from the use or misuse of the extension, including but not limited to legal actions, penalties, or account suspension, are your own responsibility.
+
+2. **No Warranties**: The extension is provided "as is," without any warranty of any kind, express or implied. The authors make no guarantees regarding the functionality, effectiveness, or legality of the extension in any jurisdiction.
+
+3. **Compliance with Terms of Service**: It is your responsibility to ensure that your use of this extension complies with the terms of service of any websites you visit, including The Economist. Bypassing paywalls or other access restrictions may violate these terms and could result in account suspension, termination, or legal action.
+
+4. **Copyright and Intellectual Property Rights**: The authors of this extension do not claim any ownership or rights to the content accessed or affected by this extension. All content remains the property of its respective owners.
+
+5. **Limitation of Liability**: The authors of this extension shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use or inability to use the extension, even if advised of the possibility of such damages.
+
+6. **Use at Your Own Risk**: You use this extension at your own risk. The authors do not guarantee that the extension will be free from bugs, errors, or vulnerabilities that could harm your device, data, or privacy.
+
+7. **Future Updates**: The authors reserve the right to update, modify, or discontinue the extension at any time without notice. The terms of this disclaimer may also be updated without notice.
+
+By downloading, installing, or using this extension, you acknowledge that you have read and understood this disclaimer, and you agree to be bound by its terms.
+
+
+Use at Your Own Risk: You use this extension at your own risk. The authors do not guarantee that the extension will be free from bugs, errors, or vulnerabilities that could harm your device, data, or privacy.
+
+Future Updates: The authors reserve the right to update, modify, or discontinue the extension at any time without notice. The terms of this disclaimer may also be updated without notice.
+
+By downloading, installing, or using this extension, you acknowledge that you have read and understood this disclaimer, and you agree to be bound by its terms.
