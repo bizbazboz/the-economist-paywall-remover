@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Remove Economist Paywall and Overlays",
+  "version": "1.2",
+  "description": "Removes the <teg-page-wall> element, gradient overlay, expandable banner, and specific style tags on The Economist website",
+  "author": "Bizo",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.economist.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
